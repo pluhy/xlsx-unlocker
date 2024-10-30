@@ -1,0 +1,16 @@
+{
+  "name": "xlsx-unlock",
+  "version": "1.0.0",
+  "description": "Unlock XLSX files",
+  "main": "unlock.js",
+  "author": "Jakub Pluhacek",
+  "dependencies": {
+    "adm-zip": "^0.5.12",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0"
+  }
+}
